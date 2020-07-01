@@ -4,13 +4,11 @@
 
 Demonstration of how CNNs trained on image-level can localize polyp(s), the discriminative image regions.
 
----
-
 ## Example
 
 ![example](https://github.com/mikiotada/ObjectLocalization/blob/master/images/demo.png)
 
---
+---
 
 ## Feature
 
