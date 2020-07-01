@@ -2,7 +2,7 @@
 
 ## Summary
 
-Demonstration of how CNNs trained on image-level can localize objects, the discriminative image regions.
+Demonstration of how CNNs trained on image-level can localize polyp(s), the discriminative image regions.
 
 **Key words**
 
@@ -11,4 +11,4 @@ Demonstration of how CNNs trained on image-level can localize objects, the discr
 - Class activation map
 - PyTorch
 
-
+(https://github.com/mikiotada/ObjectLocalization/blob/master/images/demo.png)
