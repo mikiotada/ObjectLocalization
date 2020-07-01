@@ -11,4 +11,4 @@ Demonstration of how CNNs trained on image-level can localize polyp(s), the disc
 - Class activation map
 - PyTorch
 
-(https://github.com/mikiotada/ObjectLocalization/blob/master/images/demo.png)
+![example](https://github.com/mikiotada/ObjectLocalization/blob/master/images/demo.png)
